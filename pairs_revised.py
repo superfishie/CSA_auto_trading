@@ -10,6 +10,8 @@ from util.tool_logging import ToolLogging
 import numpy as np
 from datetime import datetime
 
+# add some things"
+
 
 class StockIndex(object):
     def __init__(self):
